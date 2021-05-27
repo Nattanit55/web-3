@@ -1,0 +1,118 @@
+.container-py{
+    padding: 4rem 0;
+}
+.text-banner{
+    text-align: center;
+    line-height:0.5;
+}
+.banner{
+    position: relative;
+    display: flex;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    height: 80vh;
+    margin-top: -3.5rem;
+}
+.text-content{
+    text-align: center;
+    top: 2rem;
+}
+.photo-london{
+    width: 50%;
+    height: 30vh;
+    background-position: bottom;
+    left: 9rem;
+}
+.content-london{
+    padding-top: 14rem;
+    right: -3rem;
+}
+.text-london{
+    text-align: center;
+    margin-top: 2rem;
+    color: #000000;
+}
+.photo{
+    margin: 6rem 0;
+    border-radius: 25px;
+}
+.line{
+    text-align: center;
+}
+.text-ghot{
+    text-align: center;
+}
+.icon{
+    font-size: 75px;
+    text-align: center;
+    margin-bottom: 1rem;
+    margin-top: 3rem;
+}
+.text-icon{
+    margin: 0px 30px 0px;
+    line-height: normal;
+    font-size: 12px;
+}
+.logo{
+    font-size: 75px;
+    text-align: center;
+    margin-bottom: 1rem;
+    margin-top: 3rem;
+}
+.photo-logo{
+    height: 5rem;
+    width: 5rem;
+}
+.img-logo{
+    text-align: center;
+    margin-top: 4.5rem;
+    border-radius: 5%;
+}
+.banner__element{
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.photo-footer{
+    width: 100%;
+    height: 20vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.logo-footer{
+    height: 5rem;
+    width: 5rem;
+}
+.contact{
+    margin-top: -38px;
+}
+a{
+    color: white;
+}
+color-text{
+    color: white;
+}
+.fa.fa-mobile{
+    font-size: 20px;
+}
+
+
+/* navbar */
+.navbar{
+    z-index: 99;
+}
+
+/* navbar mobile */
+.navbar-toggler{
+    z-index: 99;
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+}
+.collapse.show{
+    position: relative;
+    top: 2rem;
+}
